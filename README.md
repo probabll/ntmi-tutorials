@@ -4,6 +4,7 @@ Material for NTV's laptopcolleges (the course is based on a course that used to 
 
 Module 1: statistics for text analysis 
   * [T1](./T1.ipynb)
+
 Module 2: text classification and regression
   * [T2](./T2.ipynb)
   * optional: [NBC](./NBC.ipynb)
