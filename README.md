@@ -8,3 +8,10 @@ Module 1: statistics for text analysis
 Module 2: text classification and regression
   * [T2](./T2.ipynb)
   * optional: [NBC](./NBC.ipynb)
+
+Module 3: feature learning
+  * [T3](./T3.ipynb)
+  * optional: [PyTorch](./PyTorch.ipynb)
+
+Module 4: language modelling
+  * [T4](./T4.ipynb)
