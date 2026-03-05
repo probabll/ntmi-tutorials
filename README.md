@@ -15,3 +15,6 @@ Module 3: feature learning
 
 Module 4: language modelling
   * [T4](./T4.ipynb)
+
+Module 5: sequence labelling
+  * [T5](./T5.ipynb)
