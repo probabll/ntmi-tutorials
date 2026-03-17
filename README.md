@@ -18,3 +18,9 @@ Module 4: language modelling
 
 Module 5: sequence labelling
   * [T5](./T5.ipynb)
+
+Module 6: applications of pretrained encoders
+  * [T6](./T6.ipynb)
+
+Optional
+  * [Bias in word embeddings](./WordEmbeddings.ipynb)
